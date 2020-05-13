@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chotot-photo",
+  "private_key_id": "377de9df4db1d77181981509e282b72771412674",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDlToy5cYx/Cmrk\nOA+qbuY4TI/lonFxG+pgKkl98NOjfravKB8JugESGAFaeh4hcZq7UqPjuQfpEjyh\njXYaLh2a/hnB30EaM+GhN2t8l9BtUAkDkxy2PMHfjBy99ck7c4RUC5zgcYSrX7QB\nSjHu5X0Jk+4TxLEAIPl+AhX3gllTuWFuWTRkzMVO+cgEuMTG+vTng44HaGqYuiCZ\n+mZhWQPBfaawCI+TTBgtCWAmLxD62AUg+2r0IwyJBUJLq5QXlKfKRVzfV+sTUH5v\nJ/ECk5UWO8XctkylG1pqKggqclacMpsZDSBEkYRtskKK9ecKIkML9TnldMY69huS\nt7Hl/bW3AgMBAAECggEAB3izy6+5E5idsHL32CZpdO+ZQHnvdxoS6xrloHWc3RNL\n1VEZ9cw6c+zAbFDHT/8ZOva93jWYQY5DuyXWcZLvNFlBh7TLQtwG5t2yWw4ynWxQ\nA1IVErEI4pOjNMbgIteaAQe3K3Ya/bSAFu5ydNduoH6nf5+B4nk+zTFx3zui41yX\nHKUJOR1jkZ0QIt5lRwc9Nvb2uLjDY3O0TQbrhIXtovZ5AiEZGgTLsVPzFbPkqo6e\niKAoWwWx4WrWkYUfPv6zEutg3uk6FgpJxHMUkg7F+RrCvjELbq8L5Xp23ZLimtgw\nwry0bLVcmk6EHLx64+p7kQdk5Q1B7hRRy5FbRRnt2QKBgQD6avYwQOBoGiPgE5d8\n9nazlHXv3YBGDuEVMx1Pvz5vlSmYGGRm3r/MACq0UbCfekU9PjcRRI9IUwDZ/IZM\nRPLz/14R9QCTKDHyFMNkgDJxRGt+YexMNb8RtslL9i+x4rZKZmhTKyEfuhHpOQ6K\n9a36YVY88iUnqBcKq/HnKsCRSQKBgQDqax2h2asGZy8//e8QkEUWPdGj0plzta5e\nX8VHgZu4zDAYWcgLGz+BlRKEtaBVRoBw36Pv6bBB4F+dV3zxtH5vSMm00ZERcpcu\niPPtpVMTkeTPolmKtt/GOudsk4gik2MKUHga1brbjARV62sH7UK1AeNrARRYa77r\nMPnr0WMO/wKBgQCvftCD5qOeMVudCP3shKmRluTEMn5YGsthWQ4culFeT7Hztnx+\nn3LY2/ERqAJY8Y6eqgBbqKmlrQ32twPDZbrCht/9Q6+gcdX26tg4kaNIQAP5cVTx\n3+TE3E3cX27zgofwQi6wwpQXMQamZOctOZow05Bla+ngDev//ZqtQAfuiQKBgQDc\nMlw2YVnWfOyUZrq+y1YqK02WXkgIufud6MZOgf+92ge/h+5yCFliJp6rjFScZcpW\nvKyoutH3P4VxLfJOtSYi8LOQJ17mjcZXTwwbCjX8ZwoQxEbqFxgig8hJZFf3ao0Y\n7jeztVp9yot0DdyPKJ6Fms1+ARiUajl/gZTxn9E2DwKBgQCA5iqZRQGVdBJ2mvfO\nL2fgkqWoqUTlBuRjo+kJCKmp3S9z5X0/aE0xT4ff32QC6z6O6tR84wU89w0B8sRK\nqvt/z3ObjclAABZY8wtm4z6WADXUiSvoOexMItum5Xlv/tokhYqz6qEuJdKgGsOY\nBPvEz8N/ucGe0y/UvU0+ii2M/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "iris-364@chotot-photo.iam.gserviceaccount.com",
+  "client_id": "110029299011542937767",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iris-364%40chotot-photo.iam.gserviceaccount.com"
+}

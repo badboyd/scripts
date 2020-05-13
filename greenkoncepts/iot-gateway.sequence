@@ -1,0 +1,6 @@
+SensorReader->ConcurrentQueue: write the sensors'data at configuration interval
+Note left of SensorReader: it keeps reading the data from sensor,
+Note left of SensorReader: and append to the queue
+CloudSender->ConcurrentQueue: read all from queue and send at configuration interval
+Note right of CloudSender: if the data is sent to the cloud,
+Note right of CloudSender: then clear the queue. If not keep the queue.
