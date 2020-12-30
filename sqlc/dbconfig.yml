@@ -1,0 +1,4 @@
+development:
+    dialect: postgres
+    datasource: dbname=test sslmode=disable user=postgres password=postgres
+    dir: schema
