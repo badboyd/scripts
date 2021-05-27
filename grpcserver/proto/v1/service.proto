@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package grpcserver.proto.v1;
+
+option go_package = ".;protov1";
+
+message ListSomethingRequest {
+    int64 next = 1;
+    int64 limit = 2;
+}
+
+message ListSomethingResponse {
+    message Data {
+        int64 id = 1;
+        string foo = 2;
+    }
+
+    repeated Data foofoo = 1;
+}
+
+service ListSomethingService {
+    rpc ListSomething(ListSomethingRequest) returns (ListSomethingResponse);
+}

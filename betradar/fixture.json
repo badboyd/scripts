@@ -1,0 +1,64 @@
+{
+	"id": 23216921,
+	"urn": "sr:match:23216921",
+	"startTime": "2021-02-01T19:45:00Z",
+	"startTimeConfirmed": true,
+	"nextLiveTime": "2021-02-01T19:45:00Z",
+	"liveodds": "not_available",
+	"status": "closed",
+	"scheduled": "2021-02-01T19:45:00Z",
+	"scheduledEnd": "0001-01-01T00:00:00Z",
+	"sport": {
+		"id": 1,
+		"name": "Soccer"
+	},
+	"category": {
+		"id": 1,
+		"name": "England",
+		"countryCode": "ENG"
+	},
+	"tournament": {
+		"id": 18,
+		"name": "Championship"
+	},
+	"round": {
+		"id": 2,
+		"type": "group",
+		"number": 27,
+		"groupLongName": "Championship"
+	},
+	"season": {
+		"id": 77685,
+		"startDate": "2020-09-11",
+		"endDate": "2021-05-09",
+		"startTime": "0001-01-01T00:00:00Z",
+		"endTime": "0001-01-01T00:00:00Z",
+		"year": "20/21",
+		"name": "Championship 20/21"
+	},
+	"venue": {
+		"id": 813,
+		"name": "Vicarage Road",
+		"capacity": 21400,
+		"cityName": "Watford",
+		"countryName": "England",
+		"countryCode": "ENG",
+		"mapCoordinates": "51.649836,-0.401486"
+	},
+	"home": {
+		"id": 24,
+		"qualifier": "home",
+		"name": "Watford FC",
+		"abbreviation": "WAT",
+		"country": "England",
+		"countryCode": "ENG"
+	},
+	"away": {
+		"id": 1,
+		"qualifier": "away",
+		"name": "Queens Park Rangers",
+		"abbreviation": "QPR",
+		"country": "England",
+		"countryCode": "ENG"
+	}
+}
